@@ -10,7 +10,7 @@ import java.util.Random;
 
 public class SendMail {
     private final static String username = "19130062@st.hcmuaf.edu.vn";
-    private final static String password = "giangkoykun19130062";
+    private final static String password = "************";
 
     public String getRandom() {
         //tạo code đăng ký
